@@ -1,0 +1,40 @@
+.big{
+    width: 100%;
+  background: linear-gradient(
+      rgba(0, 110, 88, 0.308),
+      rgba(255, 255, 255, 0.5)
+    )
+      center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.warpper{
+    width: 40%;
+    padding: 20px;
+    background-color: white;
+    margin-top: 5%;
+    border-radius: 5%;
+}
+
+.name{
+    font-size:50px;
+    font-weight: 300;
+    align-items: center;
+    justify-content: center;
+    text-align: center
+}
+.ch{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+}
+h5{
+  min-width: 40%;
+  text-align: center;
+  padding: 10px;
+  font-size:24px;
+  font-weight: 300;
+}

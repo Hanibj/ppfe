@@ -1,0 +1,42 @@
+.jeux{
+    width: 100%;
+    background: linear-gradient(
+        rgba(0, 110, 88, 0.308),
+        rgba(255, 255, 255, 0.5)
+      )
+        center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bod{
+    width: 40%;
+    padding: 20px;
+    background-color: white;
+    /* padding: auto; */
+    margin-top: auto;
+    border-radius: 5%;
+}
+.but6{
+    border: none;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-size: 1.5em;
+    padding: 20px;
+    margin-bottom: 5%;
+}
+.imge{
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}

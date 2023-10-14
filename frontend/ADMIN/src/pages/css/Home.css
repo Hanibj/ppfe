@@ -1,0 +1,23 @@
+
+.container234{
+  width: 100%;
+    background: linear-gradient(
+        rgba(0, 110, 88, 0.308),
+        rgba(255, 255, 255, 0.5)
+      )
+        center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.warpper234{
+  width: 60%;
+    padding: 20px;
+    background-color: white;
+}
+h1{
+    font-size:50px;
+    font-weight: 300;
+    text-align: center
+}

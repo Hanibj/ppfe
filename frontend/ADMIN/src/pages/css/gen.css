@@ -1,0 +1,26 @@
+.warpperg{
+    width: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top:auto;
+}
+.contg{
+    
+    width: 100%;
+  background: linear-gradient(
+    rgba(0, 110, 88, 0.308),
+      rgba(255, 255, 255, 0.5)
+    )
+      center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.imgeee{
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}

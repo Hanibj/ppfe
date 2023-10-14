@@ -1,0 +1,77 @@
+.sondage{
+  width: 100%;
+  background: linear-gradient(
+    rgba(0, 110, 88, 0.308),
+      rgba(255, 255, 255, 0.5)
+    )
+      center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.warpper5{
+    width: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.form5{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.input5{
+  flex: 1;
+  min-width: 40%;
+  margin: 30px 20px 0px 40px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.input6{
+  flex: 1;
+  min-width: 40%;
+  margin: 30px 20px 0px 40px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.but5{
+  width: 50%;
+  border: none;
+  padding: 15px 20px;
+  background-color: teal;
+  color: white;
+  cursor: pointer;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin: 30px 20px 0px 80px;
+}
+h1{
+    font-size:50px;
+    font-weight: 300;
+    text-align: center;
+}
+.Label5{
+  font-size: 70%;
+  min-width: 90%;
+  margin: 10px 10px 0px 80px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+input[type="radio"] {
+  margin-top: 40px;
+  position: absolute;
+}
+.warpper5{
+  width: 25%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 100px;
+}

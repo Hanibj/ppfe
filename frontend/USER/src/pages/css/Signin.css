@@ -1,0 +1,52 @@
+.Container{
+    width: 100%;
+  
+  background: linear-gradient(
+    rgba(0, 110, 88, 0.308),
+      rgba(255, 255, 255, 0.5)
+    )
+      center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.warrper{
+    width: 25%;
+    padding: 20px;
+    background-color: white;
+    margin-top: auto;
+    border-radius: 5%;
+    
+}
+h1{
+    font-size:50px;
+    font-weight: 300;
+    text-align: center;
+}
+.Form{
+  display: flex;
+  flex-direction: column;
+}
+.input{
+    flex: 1;
+  min-width: 40%;
+  margin: 20px 10px 0px 0px;
+  padding: 20px;
+}
+.Button{
+    width: 40%;
+    border: none;
+    padding:  20px;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.Link{
+  margin: 5px 0px;
+  font-size: 12px;
+  text-decoration: underline;
+  cursor: pointer;
+}

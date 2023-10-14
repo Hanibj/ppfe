@@ -1,0 +1,42 @@
+.Containe{
+    width: 100%;
+    background: linear-gradient(
+        rgba(0, 110, 88, 0.308),
+        rgba(255, 255, 255, 0.5)
+      )
+        center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Wrapper{
+    height: 90%;
+    width: 40%;
+    padding:  20px;
+    background-color: white;
+    border-radius: 5%;
+}
+h1{
+    font-size:50px;
+    font-weight: 300;
+    text-align: center
+}
+.Form{
+    display: flex;
+  flex-wrap: wrap;
+}
+.Input{
+    flex: 1;
+    min-width: 40%;
+    margin: 20px 10px 0px 0px;
+    padding: 10px;
+}
+.Button{
+    width: 40%;
+    border: none;
+    padding: 15px 20px;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+}

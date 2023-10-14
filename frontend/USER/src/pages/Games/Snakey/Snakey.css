@@ -1,0 +1,66 @@
+/* .snakey{ 
+    
+    padding: 20px;
+    background: linear-gradient(
+        rgba(0, 110, 88, 0.308),
+        rgba(255, 255, 255, 0.5)
+      )
+        center;
+    background-size: cover;
+    
+}
+.sn{
+    width: 70%;
+     align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    
+}
+.go{
+    width: 63%;
+    align-content: center; 
+    text-align: center;
+    margin-top: auto;
+}
+.but45{
+    width: 63%;
+    border: none;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+} */
+.snakey{ 
+    
+    padding: 20px;
+    background: linear-gradient(
+        rgba(0, 110, 88, 0.308),
+        rgba(255, 255, 255, 0.5)
+      )
+        center;
+    background-size: cover;
+    
+}
+.sn{
+    width: 70%;
+     align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    
+}
+.go{
+    width: 63%;
+    align-content: center; 
+    text-align: center;
+    margin-top: auto;
+}
+.but45{
+    width: 63%;
+    border: none;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
